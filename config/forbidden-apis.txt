@@ -1,3 +1,2 @@
 @defaultMessage JsonProvider.provider() should not be used directly. Use JsonpUtils#provider() instead.
 jakarta.json.spi.JsonProvider#provider()
-
